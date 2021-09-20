@@ -2,7 +2,7 @@
 
 ## Data
 
-The data I propose to visualize for my project is the Marvel hero dataset. 
+The data I propose to visualize for my project is the Marvel character dataset. It contains information about the superhero such as gender, race, skin color, eye color, and alignment. There are numeric based power measurements (such as strength, inteligence, or speed) that cumulate into a total score. There is also many specific super powers (stealth, weapons master, or super strength) that are in a binary format for each character.
 
 ## Prototypes
 
@@ -39,4 +39,4 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+I am worried about being able to do all the various interactive pieces I want. I have some simplier visualizations in mind, but something like being able to add multiple heros onto one spider graph is a task that is daunting to me. I'm overall worried about not being able to make the visualizations "pretty" since my background is in Python and not java and I don't have super strong art skills. 
