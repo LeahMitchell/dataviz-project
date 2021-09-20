@@ -2,7 +2,7 @@
 
 ## Data
 
-The data I propose to visualize for my project is ...
+The data I propose to visualize for my project is the Marvel hero dataset. 
 
 ## Prototypes
 
@@ -25,10 +25,12 @@ Also, you can study the [source](https://raw.githubusercontent.com/curran/datavi
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * What numeric or categorical strength is more prevelant across the characters? 
+ * Who are the strongest characters (by total numeric strength/powers or by total categorical powers or by both) overall and what is their allignment? 
+ * Following up on strongest, what are some of the patterns or characteristics of the strongest or weakest characters?
+ * What are some of the general trends across the genders, such as alignments, powers, race and general count of characters?
+ * Do certain numerical power scores correlate to specific categorical powers?
+ * What are the various patterns in gender, numeric and categorical powers for teams (i.e. original avengers), partners (i.e. Falcon and Winter Solider), and enemies (i.e. Ironman and Thanos)
 
 ## Sketches
 
