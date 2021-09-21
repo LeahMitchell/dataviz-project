@@ -35,7 +35,7 @@ Below is an example of my personal favorite 4 sketches from the original assingm
 4. Lastly, this graph is an example of a more static graph. These pie (or donut) charts would show the proportion of good vs bad character that have a specific categorical power. The size of the pie chart would be based on the total number of characters that have that power. 
 
 
-[image](https://vizhub.com/LeahMitchell/b2ef2f5b5aaf4e888fabfd979b4a7b80?edit=files&file=index.js)
+[image](https://github.com/LeahMitchell/dataviz-project/blob/master/Stealth-1.png)
 
 
 ## Open Questions
