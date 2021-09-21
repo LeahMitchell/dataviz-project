@@ -4,22 +4,14 @@
 
 The data I propose to visualize for my project is the Marvel character dataset. It contains information about the superhero such as gender, race, skin color, eye color, and alignment. There are numeric based power measurements (such as strength, inteligence, or speed) that cumulate into a total score. There is also many specific super powers (stealth, weapons master, or super strength) that are in a binary format for each character.
 
+Gist Link:
+https://gist.github.com/LeahMitchell/8ad46fbcac8d7420bcd5b97b1a245f43
+
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
-
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
-
-You can make images into links like this:
-
-```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-```
+I've started to create a prototype of the scatterplot detailed below (#2), adding in interactive pieces to the scatterplot. While the height versus weight graph isn't anything super interesting, the goal of this visualization would be to add drop down menus to choose what the x and y axis detail. 
 
 
-Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
 
 ## Questions & Tasks
 
@@ -33,9 +25,12 @@ The following tasks and questions will drive the visualization and interaction d
  * What are the various patterns in gender, numeric and categorical powers for teams (i.e. original avengers), partners (i.e. Falcon and Winter Solider), and enemies (i.e. Ironman and Thanos)
 
 ## Sketches
+Below is an example of my personal favorite 4 sketches from the original assingment, sketched out in a little more detail/color. There are many more visualizations that I would want to create and would love to have a a full page of Marvel vis for fans to geek out over. 
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+1. This graph is a spider graph to help detail the relationship between numerical power values for a character. The coloring of the graph would be based on the alignment and there would be a info box to the side to help detail a little more about the character. A more advanced goal of this graph would be the ability to layer multiple characters on the same graph or have multiple spider graphs in the same window. 
+2. This graph is a interactive scatterplot where users can change the x and y axis to be the various numerical power values. The points would be colored by alignment and character name would appear. 
+3. This bar graph would detail the average numerical power values for each categorical power. So, the average values for all characters with a power, such as stealth, would be displayed. There would be around 3 total categorical powers displayed on one plot with drop down menus to choose which powers the user wants to display. Another advanced goal would to have other stats displayed when hovering over the bars. 
+4. Lastly, this graph is an example of a more static graph. These pie (or donut) charts would show the proportion of good vs bad character that have a specific categorical power. The size of the pie chart would be based on the total number of characters that have that power. 
 
 ## Open Questions
 
