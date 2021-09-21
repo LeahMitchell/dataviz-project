@@ -34,6 +34,10 @@ Below is an example of my personal favorite 4 sketches from the original assingm
 3. This bar graph would detail the average numerical power values for each categorical power. So, the average values for all characters with a power, such as stealth, would be displayed. There would be around 3 total categorical powers displayed on one plot with drop down menus to choose which powers the user wants to display. Another advanced goal would to have other stats displayed when hovering over the bars. 
 4. Lastly, this graph is an example of a more static graph. These pie (or donut) charts would show the proportion of good vs bad character that have a specific categorical power. The size of the pie chart would be based on the total number of characters that have that power. 
 
+
+[image](https://vizhub.com/LeahMitchell/b2ef2f5b5aaf4e888fabfd979b4a7b80?edit=files&file=index.js)
+
+
 ## Open Questions
 
 I am worried about being able to do all the various interactive pieces I want. I have some simplier visualizations in mind, but something like being able to add multiple heros onto one spider graph is a task that is daunting to me. I'm overall worried about not being able to make the visualizations "pretty" since my background is in Python and not java and I don't have super strong art skills. 
