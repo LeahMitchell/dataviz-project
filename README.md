@@ -12,7 +12,9 @@ https://gist.github.com/LeahMitchell/8ad46fbcac8d7420bcd5b97b1a245f43
 I've started to create a prototype of the scatterplot detailed below (#2), adding in interactive pieces to the scatterplot. While the height versus weight graph isn't anything super interesting, the goal of this visualization would be to add drop down menus to choose what the x and y axis detail. 
 
 
-![image](https://vizhub.com/LeahMitchell/b2ef2f5b5aaf4e888fabfd979b4a7b80?mode=embed)
+![image](https://github.com/LeahMitchell/dataviz-project/blob/master/Capture.PNG)
+
+VizHub link: https://vizhub.com/LeahMitchell/b2ef2f5b5aaf4e888fabfd979b4a7b80?edit=files&file=index.js
 
 
 ## Questions & Tasks
