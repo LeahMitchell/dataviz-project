@@ -9,7 +9,7 @@ https://gist.github.com/LeahMitchell/8ad46fbcac8d7420bcd5b97b1a245f43
 
 ## Prototypes
 
-I've started to create a prototype of the scatterplot detailed below (#2), adding in interactive pieces to the scatterplot. While the height versus weight graph isn't anything super interesting, the goal of this visualization would be to add drop down menus to choose what the x and y axis detail. 
+I've started to create a prototype of the scatterplot detailed below (#2), adding in interactive pieces to the scatterplot. While the height (x-axis) versus weight (y-axis) graph below isn't anything super interesting/finalized, the goal of this visualization would be to add drop down menus to choose what the x and y axis detail. 
 
 
 ![image](https://github.com/LeahMitchell/dataviz-project/blob/master/Capture.PNG)
