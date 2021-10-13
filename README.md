@@ -47,16 +47,26 @@ Below is an example of my personal favorite 4 sketches from the original assignm
 
 Overall, the main concern regarding this project is being able to incorperate all pieces of the vision. While I have been able to learn a lot thus far, I don't believe I am not yet at the skill level to get all pieces working. 
 
+The main goal is currently to get all 4 sketched graphs at minimum with plenty of wiggle room to add more in later. Currently, the scatterplot is at a good point but all other visualizations need a large amount of work. I am not fully able to determine how long each iterations will take me as it sometimes takes me no time to change something and other times I am fully stuck. 
+
 ## Schedule
 
 10/18: (Break) Lightly work on building up current prototypes
+
 10/25: Get all 4 visualizations working (not fully incorperated)
+
 11/1: Add at least one interation per visualization
+
 11/8: Add other visuals if time, otherwise continue to develop images
+
 11/15: Continue iterating on work, last week to add new visual
+
 11/22: (Thanksgiving week) User feedback on 'final draft' (from family/friends)
+
 11/29: Github page/website up and running, Same general formating across visualizations
+
 12/6: Last minute toches/last iterations
+
 12/10 Final Deliverable
 
 
