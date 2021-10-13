@@ -26,13 +26,18 @@ The following tasks and questions will drive the visualization and interaction d
 
  * What numeric or categorical strength is more prevelant across the characters? 
  * Who are the strongest characters (by total numeric strength/powers or by total categorical powers or by both) overall and what is their alignment? 
- * Following up on strongest, what are some of the patterns or characteristics of the strongest or weakest characters?
- * What are some of the general trends across the genders, such as alignments, powers, race and general count of characters?
- * Do certain numerical power scores correlate to specific categorical powers?
- * What are the various patterns in gender, numeric and categorical powers for teams (i.e. original avengers), partners (i.e. Falcon and Winter Solider), and enemies (i.e. Ironman and Thanos)
+ * What are some of the general trends across the genders, powers, race against general count of characters per alignment?
+ * For each character, what is a general make up of their abilities? 
+
+Other questions that would be nice to answer if extra time: 
+
+* Following up on strongest, what are some of the patterns or characteristics of the strongest or weakest characters?
+* Do certain numerical power scores correlate to specific categorical powers?
+* What are the various patterns in gender, numeric and categorical powers for teams (i.e. original avengers), partners (i.e. Falcon and Winter Solider), and enemies (i.e. Ironman and Thanos)
+
 
 ## Sketches
-Below is an example of my personal favorite 4 sketches from the original assignment, sketched out in a little more detail/color. There are many more visualizations that I would want to create and would love to have a a full page of Marvel vis for fans to geek out over. 
+Below is an example of my personal favorite 4 sketches from the original assignment, sketched out in a little more detail/color. There are many more visualizations that I would want to create and would love to have a a full page of Marvel vis for fans to geek out over. The end goal would to have all graphs on a github website and strung together to create a narative about Marvel. 
 
 1. This graph is a spider graph to help detail the relationship between numerical power values for a character. The coloring of the graph would be based on the alignment and there would be a info box to the side to help detail a little more about the character. A more advanced goal of this graph would be the ability to layer multiple characters on the same graph or have multiple spider graphs in the same window. 
 2. This graph is a interactive scatterplot where users can change the x and y axis to be the various numerical power values. The points would be colored by alignment and character name would appear. (See prototypes)
@@ -52,20 +57,38 @@ The main goal is currently to get all 4 sketched graphs at minimum with plenty o
 ## Schedule
 
 10/18: (Break) Lightly work on building up current prototypes
+* Donut chart needs to be fixed
 
-10/25: Get all 4 visualizations working (not fully incorperated)
+10/25: Get each visualization to have visual encodings:
+ * Donut chart approrpiately sized and colored
+ * Bar chart broken down into sub categories
+ * Radar chart colored, possibly adding info box
 
 11/1: Add at least one interation per visualization
+* Menu and hovering for donut chart
+* Menu and hovering for bar chart
+* Menu for Radar chart
 
 11/8: Add other visuals if time, otherwise continue to develop images
+* Fix any bugs 
+* Determine current schedule and add another visualization if ahead
 
 11/15: Continue iterating on work, last week to add new visual
+* Make sure all interations are working
+* Add other interations for radar, such as two charts at once
 
 11/22: (Thanksgiving week) User feedback on 'final draft' (from family/friends)
+* Collect feedback from users to determine if graphs make sense
+* Get user experience specifically about interations 
 
-11/29: Github page/website up and running, Same general formating across visualizations
+
+11/29: Github page/website up and running, same general formating across visualizations
+* Build up website for final narative of visualizations
+* Determine final color scheme, fonts, etc for all visuals  
 
 12/6: Last minute toches/last iterations
+* Fix any last minute bugs
+* User feedback round 2
 
 12/10 Final Deliverable
 
