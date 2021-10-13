@@ -9,32 +9,35 @@ https://gist.github.com/LeahMitchell/8ad46fbcac8d7420bcd5b97b1a245f43
 
 ## Prototypes
 
-I've started to create a prototype of the scatterplot detailed below (#2), adding in interactive pieces to the scatterplot. While the height (x-axis) versus weight (y-axis) graph below isn't anything super interesting/finalized, the goal of this visualization would be to add drop down menus to choose what the x and y axis detail. 
+Currently, there are a few in-progress prototypes for this project. 
 
-
-![image](https://github.com/LeahMitchell/dataviz-project/blob/master/Capture.PNG)
-
+The most flushed out design thus far is a scatterplot of the numeric power values, sized by the total power value. This visualization also allows used the capabilities to highlight points to determine the character's name and the ability to choose the X and Y axis values. Future iterations of this graph will be the ability to zoom in on the points, the ability to have the graph show you a specific character (highlighting the point based on a drop down menu), and the ability to highlight points under a specific alignment.
 VizHub link: https://vizhub.com/LeahMitchell/b2ef2f5b5aaf4e888fabfd979b4a7b80?edit=files&file=index.js
 
+Another visualization that is in progress is a radar graph that will show the relationship of a charaters numeric power values. The visualization at the moment is not well flushed out as it is currently static and more of a "proof of concept". Future iterations will allow users to pick which character they want to see, the color of the graph based on the character's alignment, and possibly the ability to show two characters at the same time. 
+VizHub link: https://vizhub.com/LeahMitchell/59f891539dd2413e8806b09bb7a0ae5e
+
+The last prototype is a very simple bar chart of the number of characters for each alignment. Future iterations of this work will include more specifics into the makeup of each bar, for example the gender or race breakdown of each bar. 
+Vizhub link: https://vizhub.com/LeahMitchell/8b04fa1b1f9d467d9c79152421120b17
 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
  * What numeric or categorical strength is more prevelant across the characters? 
- * Who are the strongest characters (by total numeric strength/powers or by total categorical powers or by both) overall and what is their allignment? 
+ * Who are the strongest characters (by total numeric strength/powers or by total categorical powers or by both) overall and what is their alignment? 
  * Following up on strongest, what are some of the patterns or characteristics of the strongest or weakest characters?
  * What are some of the general trends across the genders, such as alignments, powers, race and general count of characters?
  * Do certain numerical power scores correlate to specific categorical powers?
  * What are the various patterns in gender, numeric and categorical powers for teams (i.e. original avengers), partners (i.e. Falcon and Winter Solider), and enemies (i.e. Ironman and Thanos)
 
 ## Sketches
-Below is an example of my personal favorite 4 sketches from the original assingment, sketched out in a little more detail/color. There are many more visualizations that I would want to create and would love to have a a full page of Marvel vis for fans to geek out over. 
+Below is an example of my personal favorite 4 sketches from the original assignment, sketched out in a little more detail/color. There are many more visualizations that I would want to create and would love to have a a full page of Marvel vis for fans to geek out over. 
 
 1. This graph is a spider graph to help detail the relationship between numerical power values for a character. The coloring of the graph would be based on the alignment and there would be a info box to the side to help detail a little more about the character. A more advanced goal of this graph would be the ability to layer multiple characters on the same graph or have multiple spider graphs in the same window. 
-2. This graph is a interactive scatterplot where users can change the x and y axis to be the various numerical power values. The points would be colored by alignment and character name would appear. 
+2. This graph is a interactive scatterplot where users can change the x and y axis to be the various numerical power values. The points would be colored by alignment and character name would appear. (See prototypes)
 3. This bar graph would detail the average numerical power values for each categorical power. So, the average values for all characters with a power, such as stealth, would be displayed. There would be around 3 total categorical powers displayed on one plot with drop down menus to choose which powers the user wants to display. Another advanced goal would to have other stats displayed when hovering over the bars. 
-4. Lastly, this graph is an example of a more static graph. These pie (or donut) charts would show the proportion of good vs bad character that have a specific categorical power. The size of the pie chart would be based on the total number of characters that have that power. 
+4. Lastly, this graph is an example of a more static graph. These pie (or donut) charts would show the proportion of good vs bad character that have a specific categorical power. The size of the pie chart would be based on the total number of characters that have that power. This graph could also benefit from interation 
 
 
 ![image](https://github.com/LeahMitchell/dataviz-project/blob/master/Stealth-1.png)
@@ -42,4 +45,18 @@ Below is an example of my personal favorite 4 sketches from the original assingm
 
 ## Open Questions
 
-I am worried about being able to do all the various interactive pieces I want. I have some simplier visualizations in mind, but something like being able to add multiple heros onto one spider graph is a task that is daunting to me. I'm overall worried about not being able to make the visualizations "pretty" since my background is in Python and not java and I don't have super strong art skills. 
+Overall, the main concern regarding this project is being able to incorperate all pieces of the vision. While I have been able to learn a lot thus far, I don't believe I am not yet at the skill level to get all pieces working. 
+
+## Schedule
+
+10/18: (Break) Lightly work on building up current prototypes
+10/25: Get all 4 visualizations working (not fully incorperated)
+11/1: Add at least one interation per visualization
+11/8: Add other visuals if time, otherwise continue to develop images
+11/15: Continue iterating on work, last week to add new visual
+11/22: (Thanksgiving week) User feedback on 'final draft' (from family/friends)
+11/29: Github page/website up and running, Same general formating across visualizations
+12/6: Last minute toches/last iterations
+12/10 Final Deliverable
+
+
