@@ -56,6 +56,8 @@ The main goal is currently to get all 4 sketched graphs at minimum with plenty o
 
 ## Schedule
 
+For the schedule, I based everything on a weekly schedule of 'to-do's, so all tasks under one week should take approximately a week to do. 
+
 10/18: (Break) Lightly work on building up current prototypes
 * Donut chart needs to be fixed
 
