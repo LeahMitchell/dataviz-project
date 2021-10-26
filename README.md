@@ -94,4 +94,19 @@ For the schedule, I based everything on a weekly schedule of 'to-do's, so all ta
 
 12/10 Final Deliverable
 
+## Iterations
+
+10/26: Addressing Project Feedback:
+
+* Restructed radar code to be in seperate js file
+* Worked with creating multiple radar graphs on one plot
+* Colored radar graphs by character side
+* Plot character names on scatterplot 
+
+Radar Chart: https://vizhub.com/LeahMitchell/a73e10b87b774375890bb56de2ff7162
+
+
+Scatterplot: https://vizhub.com/LeahMitchell/75c74ab6bd824e34be0feed0e92867fd?file=index.js
+
+
 
