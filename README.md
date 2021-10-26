@@ -99,14 +99,15 @@ For the schedule, I based everything on a weekly schedule of 'to-do's, so all ta
 10/26: Addressing Project Feedback:
 
 * Restructed radar code to be in seperate js file
-* Worked with creating multiple radar graphs on one plot
+* Worked with creating multiple radar graphs on one plot (ultimate goal of showing all characters' radar graphs)
 * Colored radar graphs by character side
 * Plot character names on scatterplot 
 
 Radar Chart: https://vizhub.com/LeahMitchell/a73e10b87b774375890bb56de2ff7162
 
+![image](https://github.com/LeahMitchell/dataviz-project/blob/master/radar_it_1.png)
 
 Scatterplot: https://vizhub.com/LeahMitchell/75c74ab6bd824e34be0feed0e92867fd?file=index.js
 
-
+![image](https://github.com/LeahMitchell/dataviz-project/blob/master/scatter_it_1.png)
 
