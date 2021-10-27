@@ -102,6 +102,8 @@ For the schedule, I based everything on a weekly schedule of 'to-do's, so all ta
 * Worked with creating multiple radar graphs on one plot (ultimate goal of showing all characters' radar graphs)
 * Colored radar graphs by character side
 * Plot character names on scatterplot 
+* Attempted: updating menu for choosing character for radar graph
+* Attempted: adding character names onto brushing scatterplot as well
 
 Radar Chart: https://vizhub.com/LeahMitchell/a73e10b87b774375890bb56de2ff7162
 
