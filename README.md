@@ -14,8 +14,8 @@ Currently, there are a few in-progress prototypes for this project.
 The most flushed out design thus far is a scatterplot of the numeric power values, sized by the total power value. This visualization also allows used the capabilities to highlight points to determine the character's name and the ability to choose the X and Y axis values. Future iterations of this graph will be the ability to zoom in on the points, the ability to have the graph show you a specific character (highlighting the point based on a drop down menu), and the ability to highlight points under a specific alignment.
 VizHub link: https://vizhub.com/LeahMitchell/b2ef2f5b5aaf4e888fabfd979b4a7b80?edit=files&file=index.js
 
-Another visualization that is in progress is a radar graph that will show the relationship of a charaters numeric power values. The visualization at the moment is not well flushed out as it is currently static and more of a "proof of concept". Future iterations will allow users to pick which character they want to see, the color of the graph based on the character's alignment, and possibly the ability to show two characters at the same time. 
-VizHub link: https://vizhub.com/LeahMitchell/59f891539dd2413e8806b09bb7a0ae5e
+Another visualization that is in progress is a radar graph that will show the relationship of a charaters numeric power values. The radar chart allows users to pick which character they are interested in seeing and the color changes based on character alignment. 
+VizHub link: https://vizhub.com/LeahMitchell/12732aef9fd54f20ab0e9d080c6cca46 
 
 The last prototype is a very simple bar chart of the number of characters for each alignment. Future iterations of this work will include more specifics into the makeup of each bar, for example the gender or race breakdown of each bar. 
 Vizhub link: https://vizhub.com/LeahMitchell/8b04fa1b1f9d467d9c79152421120b17
@@ -47,6 +47,11 @@ Below is an example of my personal favorite 4 sketches from the original assignm
 
 ![image](https://github.com/LeahMitchell/dataviz-project/blob/master/Stealth-1.png)
 
+## Reinvisioned Final Product
+
+After discussing with Professor Kelleher, the final direction has changed from the above sketches. The final project will be a two sided visualization with a scatterplot on the left and a radar chart on the right. The scatterplot will be much like the one previously discussed with better tooltip interactions and the radar chart will also be like the one currently developed with the ability to choose which character. The two interactions will be linked so as a user "finds" a character on the scatterplot, the radar chart will update to show the corresponding radar chart. In reverse, as a character is chosen on the radar chart, the characters scatterplot value will be highlighted on the scatterplot.
+
+If time allows, other visualizations will be developed to support this main visualization. 
 
 ## Open Questions
 
@@ -112,4 +117,10 @@ Radar Chart: https://vizhub.com/LeahMitchell/a73e10b87b774375890bb56de2ff7162
 Scatterplot: https://vizhub.com/LeahMitchell/75c74ab6bd824e34be0feed0e92867fd?file=index.js
 
 ![image](https://github.com/LeahMitchell/dataviz-project/blob/master/scatter_it_1.PNG)
+
+11/10:
+
+The radar chart is now working to allow users to change the character based on what they are interested in. See below for the link to the radar chart. 
+
+https://vizhub.com/LeahMitchell/12732aef9fd54f20ab0e9d080c6cca46
 
