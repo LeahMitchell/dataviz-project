@@ -141,3 +141,12 @@ https://vizhub.com/LeahMitchell/12732aef9fd54f20ab0e9d080c6cca46
 * fixed tooltip error on radar chart
 * total power score on bottom of radar chart
 * edited README
+
+12/1:
+
+* Both graphs are on the same plot!!!
+* Each work with the menu interations as well 
+* I got some feedback from a friend have a "laundry" list of what I need to work on found in the readme
+
+Here is the updated combined chart link: 
+https://vizhub.com/LeahMitchell/369be3627211463fba6b94f06f4c3ccc?edit=files&file=scatterPlot.js
