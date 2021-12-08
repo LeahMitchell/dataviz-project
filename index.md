@@ -66,6 +66,8 @@ The final result, shown below, is almost everything we pictured when reinvisioni
 
 Some additions to the graphs include some more visability into the data, such as the summary statistics above the radar chart. 
 
+<iframe width="560" height="292" src="https://vizhub.com/LeahMitchell/369be3627211463fba6b94f06f4c3ccc?mode=embed" title="Scatter and Radar Plot" frameborder="0" ></iframe>
+
 ### Conclusions
 
 I am personally suprised at how much I was able to get done for this project, but I did start this semester with higher hopes for what I was going to be able to get done. I didn't understand in the beginning how much there was for me to learn, not just about putting together interesting and complete visualizations but learning how to code in javascript too. As someone with a "Python-brain", I often found myself struggling to comprehend the language of javascript itself. 
