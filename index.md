@@ -1,6 +1,6 @@
 ## Data Visualization Final Project
 
-As some one who got obsessed with Marvel during the pandemic (like 'create an excel spreadsheet of each movie with its rating' level obsessed), I knew that the project for data visulization (WPI CS 573) had to be something that I could obsess over. So, I choose Marvel.
+As some one who got obsessed with Marvel during the pandemic (like "create an excel spreadsheet of each movie with its rating" level obsessed), I knew that the project for data visulization had to be something that I could obsess over. So naturally I choose Marvel.
 
 
 ### Data
@@ -52,11 +52,22 @@ VizHub link: https://vizhub.com/LeahMitchell/12732aef9fd54f20ab0e9d080c6cca46
 The last prototype is a very simple bar chart of the number of characters for each alignment. Future iterations of this work will include more specifics into the makeup of each bar, for example the gender or race breakdown of each bar. This chart is the least prioritized due to the reinvisioned final product described below. 
 Vizhub link: https://vizhub.com/LeahMitchell/8b04fa1b1f9d467d9c79152421120b17
 
+### Reinvisioning the Final Product
+
+Towards the end of the semester, I met with Professor Kelleher to discuss the status of my project. After some brainstorming, we decided that my final project will be a two sided visualization with a scatterplot on the left and a radar chart on the right. The scatterplot will be much like the one previously discussed with better tooltip interactions and the radar chart will also be like the one currently developed with the ability to choose which character. At this time we had discussed that the two interactions would be linked so as a user "finds" a character on the scatterplot, the radar chart will update to show the corresponding radar chart. In reverse, as a character is chosen on the radar chart, the characters scatterplot value will be highlighted on the scatterplot.
+
+We made this one visualization my priority and discussed other possible addition if time allows. 
+
 ### Final Result
+
+The final result, shown below, is almost everything we pictured when reinvisioning the project. The only adjustment is that the scatterplot does not control the radar chart, as it would be too unstable for users to truly use. For example, a user could find a character on the scatterplot and while trying to navigate to the radar to explore it, the user would most likely change the character due to the Voroni graph.
+
+Some additions to the graphs include some more visability into the data, such as the summary statistics above the radar chart. 
+
 
 
 ### Conclusions
 
-I am personally suprised at how much I was able to get done for this project. 
+I am personally suprised at how much I was able to get done for this project, but I did start this semester with higher hopes for what I was going to be able to get done. I didn't understand in the beginning how much there was for me to learn, not just about putting together interesting visualization but coding in javascript too. 
 
 
