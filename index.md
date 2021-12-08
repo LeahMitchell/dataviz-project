@@ -60,8 +60,7 @@ Towards the end of the semester, I met with Professor Kelleher to discuss the st
 
 We made this one visualization my priority and discussed other possible addition if time allows. 
 
-
-<iframe src="https://vizhub.com/LeahMitchell/369be3627211463fba6b94f06f4c3ccc?edit=files&file=index.js"></iframe>
+<iframe src="https://vizhub.com/LeahMitchell/369be3627211463fba6b94f06f4c3ccc?edit=files&file=index.js" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
 
 ### Final Result
 
