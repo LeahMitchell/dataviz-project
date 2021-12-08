@@ -66,7 +66,7 @@ The final result, shown below, is almost everything we pictured when reinvisioni
 
 Some additions to the graphs include some more visability into the data, such as the summary statistics above the radar chart. 
 
-<iframe src="http://vizhub.com/LeahMitchell/369be3627211463fba6b94f06f4c3ccc?edit=files&file=index.js&mode=full" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+<iframe width="560" height="292" src="https://vizhub.com/LeahMitchell/369be3627211463fba6b94f06f4c3ccc?mode=embed" title="Scatter and Radar Plot" frameborder="0" ></iframe>
 
 ### Conclusions
 
