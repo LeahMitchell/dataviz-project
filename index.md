@@ -60,6 +60,9 @@ Towards the end of the semester, I met with Professor Kelleher to discuss the st
 
 We made this one visualization my priority and discussed other possible addition if time allows. 
 
+
+<iframe src="https://vizhub.com/LeahMitchell/369be3627211463fba6b94f06f4c3ccc?edit=files&file=index.js"></iframe>
+
 ### Final Result
 
 The final result, shown below, is almost everything we pictured when reinvisioning the project. The only adjustment is that the scatterplot does not control the radar chart, as it would be too unstable for users to truly use. For example, a user could find a character on the scatterplot and while trying to navigate to the radar to explore it, the user would most likely change the character due to the Voroni graph.
