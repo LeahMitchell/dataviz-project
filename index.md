@@ -7,8 +7,7 @@ As some one who got obsessed with Marvel during the pandemic (like 'create an ex
 
 I was able to find a pretty extensive dataset on Kaggle that detailed information about all the characters from the comic books. For each character it contains information such as gender, race, skin color, eye color, and alignment. There are numeric based power measurements (such as strength, inteligence, or speed) that cumulate into a total score. There is also many specific super powers (stealth, weapons master, or super strength) that are in a binary format for each character.
 
-For data cleaning, luckily only a few modificiations were needed. First, some gender information was blank, so were filled after a few google searches and the Marvel Wiki page. Second, any characters that did not contain data for each of the numeric based power measurements were filtered out as there was no realiable way to fill in that information. Lastly, for each of the specific super powers, a columns was created for a list of each characters powers.
-
+For data cleaning, luckily only a few modificiations were needed. First, some gender information was blank, so were filled after a few google searches and the Marvel Wiki page. Second, any characters that did not contain data for each of the numeric based power measurements were filtered out as there was no realiable way to fill in that information. For each of the specific super powers, a columns was created for a list of each characters powers. Lastly, each character was given their rank based on their total score. 
 Gist Link:
 https://gist.github.com/LeahMitchell/8ad46fbcac8d7420bcd5b97b1a245f43
 
