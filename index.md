@@ -8,8 +8,8 @@ As some one who got obsessed with Marvel during the pandemic (like "create an ex
 I was able to find a pretty extensive dataset on Kaggle that detailed information about all the characters from the comic books. For each character it contains information such as gender, race, skin color, eye color, and alignment. There are numeric based power measurements (such as strength, inteligence, or speed) that cumulate into a total score. There is also many specific super powers (stealth, weapons master, or super strength) that are in a binary format for each character.
 
 For data cleaning, luckily only a few modificiations were needed. First, some gender information was blank, so were filled after a few google searches and the Marvel Wiki page. Second, any characters that did not contain data for each of the numeric based power measurements were filtered out as there was no realiable way to fill in that information. For each of the specific super powers, a columns was created for a list of each characters powers. Lastly, each character was given their rank based on their total score. 
-Gist Link:
-https://gist.github.com/LeahMitchell/8ad46fbcac8d7420bcd5b97b1a245f43
+
+<a href="https://gist.github.com/LeahMitchell/8ad46fbcac8d7420bcd5b97b1a245f43"> GistHub Link </a>
 
 ### Sketches
 Below is an example of my personal favorite 4 sketches from the brainstorming assignment, sketched out in a little more detail/color. There are many more visualizations that I would want to create and would love to have a a full page of Marvel vis for fans to geek out over. The end goal would to have all graphs on a github website and strung together to create a narative about Marvel. 
@@ -44,13 +44,15 @@ Throughout this semester, I worked on and developed a few different prototypes t
 
 The most flushed out design is a scatterplot of the numeric power values, sized by the total power value. This visualization also allows the user the capabilities to highlight points to determine the character's name and the ability to choose the X and Y axis values. Most recently, a voroni graph was added to the scatterplot to make highlight character names easier and the ability to choose a character to highlight was added. Future iterations of this graph would add in the ability to zoom in on the points and the ability to highlight points under a specific alignment.
 
-VizHub link: https://vizhub.com/LeahMitchell/b2ef2f5b5aaf4e888fabfd979b4a7b80?edit=files&file=index.js
+<a href="https://vizhub.com/LeahMitchell/b2ef2f5b5aaf4e888fabfd979b4a7b80?edit=files&file=index.js"> VizHub Link </a>
 
 Another visualization that was developed more radar graph that will show the relationship of a charaters numeric power values. The radar chart allows users to pick which character they are interested in seeing and the color changes based on character alignment along with the total power value at the bottom. 
-VizHub link: https://vizhub.com/LeahMitchell/12732aef9fd54f20ab0e9d080c6cca46 
+
+<a href="https://vizhub.com/LeahMitchell/12732aef9fd54f20ab0e9d080c6cca46"> VizHub Link </a>
 
 The last prototype is a very simple bar chart of the number of characters for each alignment. Future iterations of this work will include more specifics into the makeup of each bar, for example the gender or race breakdown of each bar. This chart is the least prioritized due to the reinvisioned final product described below. 
-Vizhub link: https://vizhub.com/LeahMitchell/8b04fa1b1f9d467d9c79152421120b17
+
+<a href="https://vizhub.com/LeahMitchell/8b04fa1b1f9d467d9c79152421120b17"> VizHub Link </a>
 
 ### Reinvisioning the Final Product
 
