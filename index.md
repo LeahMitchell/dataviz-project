@@ -11,7 +11,7 @@ For data cleaning, luckily only a few modificiations were needed. First, some ge
 Gist Link:
 https://gist.github.com/LeahMitchell/8ad46fbcac8d7420bcd5b97b1a245f43
 
-## Sketches
+### Sketches
 Below is an example of my personal favorite 4 sketches from the brainstorming assignment, sketched out in a little more detail/color. There are many more visualizations that I would want to create and would love to have a a full page of Marvel vis for fans to geek out over. The end goal would to have all graphs on a github website and strung together to create a narative about Marvel. 
 
 1. This graph is a spider graph to help detail the relationship between numerical power values for a character. The coloring of the graph would be based on the alignment and there would be a info box to the side to help detail a little more about the character. A more advanced goal of this graph would be the ability to layer multiple characters on the same graph or have multiple spider graphs in the same window. 
@@ -20,7 +20,7 @@ Below is an example of my personal favorite 4 sketches from the brainstorming as
 4. Lastly, this graph is an example of a more static graph. These pie (or donut) charts would show the proportion of good vs bad character that have a specific categorical power. The size of the pie chart would be based on the total number of characters that have that power. This graph could also benefit from interation 
 
 
-## Questions & Tasks
+### Questions & Tasks
 
 At the beginning of the project, we were asked to ask questions we hoped to answer through the developement of our visualizations. Below were the main questions that I set out to answer with my visualizations. 
 
@@ -37,7 +37,7 @@ Some other questions that I was still interested in answering included:
 
 Looking back now at the end of the project, I think I would have benefited more from picking on or two main questions to base my work off of, rather than a whole long list that left the options a little too broad. 
 
-## Prototypes
+### Prototypes
 
 Throughout this semester, I worked on and developed a few different prototypes that are worth mentioning. Two of these prototypes ended up playing integral roles in the final visualization. 
 
@@ -51,6 +51,11 @@ VizHub link: https://vizhub.com/LeahMitchell/12732aef9fd54f20ab0e9d080c6cca46
 The last prototype is a very simple bar chart of the number of characters for each alignment. Future iterations of this work will include more specifics into the makeup of each bar, for example the gender or race breakdown of each bar. This chart is the least prioritized due to the reinvisioned final product described below. 
 Vizhub link: https://vizhub.com/LeahMitchell/8b04fa1b1f9d467d9c79152421120b17
 
+### Final Result
 
+
+### Conclusions
+
+I am personally suprised at how much I was able to get done for this project. 
 
 
