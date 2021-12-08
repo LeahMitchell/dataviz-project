@@ -19,7 +19,7 @@ Below is an example of my personal favorite 4 sketches from the brainstorming as
 3. This bar graph would detail the average numerical power values for each categorical power. So, the average values for all characters with a power, such as stealth, would be displayed. There would be around 3 total categorical powers displayed on one plot with drop down menus to choose which powers the user wants to display. Another advanced goal would to have other stats displayed when hovering over the bars. 
 4. Lastly, this graph is an example of a more static graph. These pie (or donut) charts would show the proportion of good vs bad character that have a specific categorical power. The size of the pie chart would be based on the total number of characters that have that power. This graph could also benefit from interation 
 
-<img src="Stealth-1.png" alt="hi" class="inline"/>
+<img src="Stealth-1.jpg" alt="hi" class="inline"/>
 
 ### Questions & Tasks
 
