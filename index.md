@@ -19,7 +19,7 @@ Below is an example of my personal favorite 4 sketches from the brainstorming as
 3. This bar graph would detail the average numerical power values for each categorical power. So, the average values for all characters with a power, such as stealth, would be displayed. There would be around 3 total categorical powers displayed on one plot with drop down menus to choose which powers the user wants to display. Another advanced goal would to have other stats displayed when hovering over the bars. 
 4. Lastly, this graph is an example of a more static graph. These pie (or donut) charts would show the proportion of good vs bad character that have a specific categorical power. The size of the pie chart would be based on the total number of characters that have that power. This graph could also benefit from interation 
 
-![image](https://github.com/LeahMitchell/dataviz-project/blob/master/Stealth-1.png)
+![image](https://github.com/LeahMitchell/dataviz-project/blob/gh-pages/Stealth-1.png)
 
 ### Questions & Tasks
 
@@ -68,6 +68,8 @@ Some additions to the graphs include some more visability into the data, such as
 
 ### Conclusions
 
-I am personally suprised at how much I was able to get done for this project, but I did start this semester with higher hopes for what I was going to be able to get done. I didn't understand in the beginning how much there was for me to learn, not just about putting together interesting visualization but coding in javascript too. 
+I am personally suprised at how much I was able to get done for this project, but I did start this semester with higher hopes for what I was going to be able to get done. I didn't understand in the beginning how much there was for me to learn, not just about putting together interesting and complete visualizations but learning how to code in javascript too. As someone with a "Python-brain", I often found myself struggling to comprehend the language of javascript itself. 
+
+In all honesty, I don't think I've ever been as excited to show friends and family a class project. I often shared my different prototypes with classmates, friends, and my sister to get feedback and input on how to improve my project. I love Marvel and being able to work with a dataset that was so interesting and personal has made this project so more important to me. It gave me more of a sense of ownership knowing it was about something I loved. This is something I could see doing much more in the future and making it a hobby, but probably once I have more free time after graduate school. 
 
 
