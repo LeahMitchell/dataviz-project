@@ -1,3 +1,9 @@
+## Final Video:
+https://youtu.be/dl8bcqDelLA
+
+## Final Website (with updated writing): 
+https://leahmitchell.github.io/dataviz-project/
+
 # Data Visualization Project
 
 As some one who got obsessed with Marvel during the pandemic (like 'create an excel spreadsheet of each movie with its rating' level obsessed), I knew that the project for data visulization (WPI CS 573) had to be something that I could obsess over. So, I choose Marvel. 
@@ -164,3 +170,11 @@ https://vizhub.com/LeahMitchell/369be3627211463fba6b94f06f4c3ccc?edit=files&file
 
 
 ![image](https://github.com/LeahMitchell/dataviz-project/blob/master/current_status_12_1.PNG)
+
+
+12/9: 
+
+* Finalized any small things from last week
+* Adding in second character option
+* Built website
+* Submitted project!
