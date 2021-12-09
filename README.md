@@ -20,13 +20,18 @@ The most flushed out design thus far is a scatterplot of the numeric power value
 
 Another visualization that is in progress is a radar graph that will show the relationship of a charaters numeric power values. The radar chart allows users to pick which character they are interested in seeing and the color changes based on character alignment along with the total power value at the bottom. 
 
+
 <iframe width="400" height="208" src="https://vizhub.com/LeahMitchell/12732aef9fd54f20ab0e9d080c6cca46?mode=embed" title="Radar chart with character option" frameborder="0" ></iframe>
+
 
 The last two prototype inlcude a very simple bar chart of the number of characters for each alignment and a very simple donut chart of alignment of characters with a specific categorical power. Future iterations of the bar chart will include more specifics into the makeup of each bar, for example the gender or race breakdown of each bar. Future iterations of the donut char would to be have the menu work and have multiple donuts on one graph. These chart are the least prioritized due to the reinvisioned final product described below. 
 
+
 <iframe width="400" height="208" src="https://vizhub.com/LeahMitchell/8b04fa1b1f9d467d9c79152421120b17?mode=embed" title="Bar Chart of Character Alignment" frameborder="0" ></iframe>
 
+
 <iframe width="400" height="208" src="https://vizhub.com/LeahMitchell/36c9facc28864543bef4e8009a67b452?mode=embed" title="Powers Donut Graph" frameborder="0" ></iframe>
+
 
 ## Questions & Tasks
 
