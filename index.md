@@ -74,9 +74,9 @@ The final result, shown below, is almost everything we pictured when reinvisioni
 
 <iframe width="560" height="292" src="https://vizhub.com/LeahMitchell/369be3627211463fba6b94f06f4c3ccc?mode=embed" title="Marvel Charts" frameborder="0" ></iframe>
 
-The final visualization is quite complex and has a lot of interaction, both for the user and within the plot. For a full tour of the graph, see the video listed below!
+The final visualization is quite complex and has a lot of interaction, both for the user and within the plot. For a full tour of the graph, see <a href="
+https://www.youtube.com/embed/dl8bcqDelLA"> this video! </a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dl8bcqDelLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Conclusions
 
