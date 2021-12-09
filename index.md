@@ -77,6 +77,5 @@ In all honesty, I don't think I've ever been as excited to show friends and fami
 
 Overall, it's crazy to see how far I've come from my very first assignment -- another Marvel themed visualization. (Did I mention I like Marvel?)
 
-<iframe width="560" height="292" src="https://vizhub.com/LeahMitchell/ba228697251846f2855769e57d86059c?mode=embed" title="SVG Fundamentals: Marvel Logo" frameborder="0" ></iframe>
-
+<iframe width="400" height="208" src="https://vizhub.com/LeahMitchell/ba228697251846f2855769e57d86059c?mode=embed" title="SVG Fundamentals: Marvel Logo" frameborder="0" ></iframe>
 
