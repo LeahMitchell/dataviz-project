@@ -76,7 +76,7 @@ The final result, shown below, is almost everything we pictured when reinvisioni
 
 The final visualization is quite complex and has a lot of interaction, both for the user and within the plot. For a full tour of the graph, see the video listed below!
 
-<iframe width="560" height="292" src="https://youtu.be/dl8bcqDelLA" title="Marvel Charts" frameborder="0" ></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dl8bcqDelLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Conclusions
 
