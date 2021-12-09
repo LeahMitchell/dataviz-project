@@ -62,11 +62,11 @@ We made this one visualization my priority and discussed other possible addition
 
 ### Final Result
 
-The final result, shown below, is almost everything we pictured when reinvisioning the project. The only adjustment is that the scatterplot does not control the radar chart, as it would be too unstable for users to truly use. For example, a user could find a character on the scatterplot and while trying to navigate to the radar to explore it, the user would most likely change the character due to the Voroni graph.
-
-Some additions to the graphs include some more visability into the data, such as the summary statistics above the radar chart. 
+The final result, shown below, is almost everything we pictured when reinvisioning the project. The only adjustment is that the scatterplot does not control the radar chart, as it would be too unstable for users to truly use. For example, a user could find a character on the scatterplot and while trying to navigate to the radar to explore it, the user would most likely change the character due to the Voroni graph. Some additions to the graphs include some more visability into the data, such as the summary statistics above the radar chart and the ability to compare two characters at once when wanted. 
 
 <iframe width="560" height="292" src="https://vizhub.com/LeahMitchell/369be3627211463fba6b94f06f4c3ccc?mode=embed" title="Marvel Charts" frameborder="0" ></iframe>
+
+The final visualization is quite complex and has a lot of interaction, both for the user and within the plot. For a full tour of the graph, see the video listed below!
 
 
 ### Conclusions
