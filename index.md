@@ -12,7 +12,7 @@ For data cleaning, luckily only a few modificiations were needed. First, some ge
 <a href="https://gist.github.com/LeahMitchell/8ad46fbcac8d7420bcd5b97b1a245f43"> GistHub Link </a>
 
 ### Sketches
-Below is an example of my personal favorite 4 sketches from the brainstorming assignment, sketched out in a little more detail/color. There are many more visualizations that I would want to create and would love to have a a full page of Marvel vis for fans to geek out over. The end goal would to have all graphs on a github website and strung together to create a narative about Marvel. 
+Below is an example of my personal favorite 4 sketches from the brainstorming assignment, sketched out in a little more detail/color. There are so many more visualizations that I sketched out, but had to narrow down my focus to only a few. 
 
 1. This graph is a spider graph to help detail the relationship between numerical power values for a character. The coloring of the graph would be based on the alignment and there would be a info box to the side to help detail a little more about the character. A more advanced goal of this graph would be the ability to layer multiple characters on the same graph or have multiple spider graphs in the same window. 
 2. This graph is a interactive scatterplot where users can change the x and y axis to be the various numerical power values. The points would be colored by alignment and character name would appear. (See prototypes)
