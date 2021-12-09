@@ -16,13 +16,17 @@ Currently, there are a few in-progress prototypes for this project.
 
 The most flushed out design thus far is a scatterplot of the numeric power values, sized by the total power value. This visualization also allows used the capabilities to highlight points to determine the character's name and the ability to choose the X and Y axis values. Most recently, a voroni graph was added to the scatterplot to make highlight character names easier and the ability to choose a character to highlight was added. Future iterations of this graph will be the ability to zoom in on the points and the ability to highlight points under a specific alignment.
 
-VizHub link: https://vizhub.com/LeahMitchell/b2ef2f5b5aaf4e888fabfd979b4a7b80?edit=files&file=index.js
+<iframe width="400" height="208" src="https://vizhub.com/LeahMitchell/325e9b3bedcd4fc7953f4dc1607f2f5a?mode=embed" title="Powers Scatterplot with Veroni" frameborder="0" ></iframe>
 
 Another visualization that is in progress is a radar graph that will show the relationship of a charaters numeric power values. The radar chart allows users to pick which character they are interested in seeing and the color changes based on character alignment along with the total power value at the bottom. 
-VizHub link: https://vizhub.com/LeahMitchell/12732aef9fd54f20ab0e9d080c6cca46 
 
-The last prototype is a very simple bar chart of the number of characters for each alignment. Future iterations of this work will include more specifics into the makeup of each bar, for example the gender or race breakdown of each bar. This chart is the least prioritized due to the reinvisioned final product described below. 
-Vizhub link: https://vizhub.com/LeahMitchell/8b04fa1b1f9d467d9c79152421120b17
+<iframe width="400" height="208" src="https://vizhub.com/LeahMitchell/12732aef9fd54f20ab0e9d080c6cca46?mode=embed" title="Radar chart with character option" frameborder="0" ></iframe>
+
+The last two prototype inlcude a very simple bar chart of the number of characters for each alignment and a very simple donut chart of alignment of characters with a specific categorical power. Future iterations of the bar chart will include more specifics into the makeup of each bar, for example the gender or race breakdown of each bar. Future iterations of the donut char would to be have the menu work and have multiple donuts on one graph. These chart are the least prioritized due to the reinvisioned final product described below. 
+
+<iframe width="400" height="208" src="https://vizhub.com/LeahMitchell/8b04fa1b1f9d467d9c79152421120b17?mode=embed" title="Bar Chart of Character Alignment" frameborder="0" ></iframe>
+
+<iframe width="400" height="208" src="https://vizhub.com/LeahMitchell/36c9facc28864543bef4e8009a67b452?mode=embed" title="Powers Donut Graph" frameborder="0" ></iframe>
 
 ## Questions & Tasks
 
