@@ -66,7 +66,7 @@ The final result, shown below, is almost everything we pictured when reinvisioni
 
 Some additions to the graphs include some more visability into the data, such as the summary statistics above the radar chart. 
 
-<iframe align="left" width="560" height="292" src="https://vizhub.com/LeahMitchell/369be3627211463fba6b94f06f4c3ccc?mode=embed" title="Scatter and Radar Plot" style="border:2px solid black;" ></iframe>
+<iframe width="560" height="292" src="https://vizhub.com/LeahMitchell/369be3627211463fba6b94f06f4c3ccc?mode=embed" title="Marvel Charts" frameborder="0" ></iframe>
 
 
 ### Conclusions
@@ -74,5 +74,9 @@ Some additions to the graphs include some more visability into the data, such as
 I am personally suprised at how much I was able to get done for this project, but I did start this semester with higher hopes for what I was going to be able to get done. I didn't understand in the beginning how much there was for me to learn, not just about putting together interesting and complete visualizations but learning how to code in javascript too. As someone with a "Python-brain", I often found myself struggling to comprehend the language of javascript itself. 
 
 In all honesty, I don't think I've ever been as excited to show friends and family a class project. I often shared my different prototypes with classmates, friends, and my sister to get feedback and input on how to improve my project. I love Marvel and being able to work with a dataset that was so interesting and personal has made this project so more important to me. It gave me more of a sense of ownership knowing it was about something I loved. This is something I could see doing much more in the future and making it a hobby, but probably once I have more free time after graduate school. 
+
+Overall, it's crazy to see how far I've come from my very first assignment -- another Marvel themed visualization. (Did I mention I like Marvel?)
+
+<iframe width="560" height="292" src="https://vizhub.com/LeahMitchell/ba228697251846f2855769e57d86059c?mode=embed" title="SVG Fundamentals: Marvel Logo" frameborder="0" ></iframe>
 
 
